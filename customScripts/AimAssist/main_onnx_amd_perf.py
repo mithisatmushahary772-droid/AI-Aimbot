@@ -17,8 +17,8 @@ def main():
     Providers = 'DmlExecutionProvider'
     
     # Portion of screen to be captured (This forms a square/rectangle around the center of screen)
-    screenShotHeight = 160
-    screenShotWidth = 160
+    screenShotHeight = 280
+    screenShotWidth = 280
 
     # For use in games that are 3rd person and character model interferes with the autoaim
     # EXAMPLE: Fortnite and New World
